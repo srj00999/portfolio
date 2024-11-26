@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Meesho",
+    "description": "An E-commerce application which has seamless E-commerce flow, Authentication, Authorization with Protected Routes.",
+    "skills": [
+      "React",
+      "Context API",
+      "Fake Store API"
+    ],
+    "demo": "https://messhoo.netlify.app/",
+    "source": "https://github.com/srj00999/Meesho-Clone---React-Project---i3dbmk1mx2bu.git"
+  },
+  {
+    "title": "Tasks Management System",
+    "description": "A simple Task Manager web application built with React for managing tasks, including features like priority, category.",
+    "skills": [
+      "React",
+      "Context API"
+    ],
+    "demo": "https://tasks-mngr.netlify.app/",
+    "source": "https://github.com/srj00999/Task_Management.git"
+  }
+ 
+]

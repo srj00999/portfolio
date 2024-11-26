@@ -1,0 +1,25 @@
+[
+  {
+    "role": "Experience Engineer ",
+    "organisation": "Publicis Sapient",
+    "startDate": "March, 2022",
+    "endDate": "May, 2024",
+    "experiences": [
+      "Worked on a US-based Kids brand E-commerce client application as a FullStack Developer(React + Node).",
+      "Curated and maintained a robust library of reusable components, streamlining development processes and boosting efficiency.",
+      "Proactively tackled technical challenges, optimizing application performance and elevating user satisfaction."
+    ]
+  },
+  {
+    "role": "Production Operator",
+    "organisation": "SUSPA Pneumatics (India) Ltd.",
+    "startDate": "Sep, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Operate and monitor production equipment to ensure smooth and efficient manufacturing processes.",
+      "Assist in equipment maintenance, troubleshooting, and resolving production issues to minimize downtime.",
+      "Collaborate with team members to meet daily production targets and ensure timely delivery.",
+      "Maintain accurate production records and reports for process improvement."
+    ]
+  }
+]
