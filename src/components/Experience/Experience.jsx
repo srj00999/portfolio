@@ -4,10 +4,11 @@ import skills from "../../data/skills.json";
 import experience from "../../data/experience.json";
 import OrgImage1 from "../../assets/experience/webixy.png";
 import OrgImage2 from "../../assets/experience/suspa.png";
+import OrgImage3 from "../../assets/experience/liscoLogo.png";
 
 import removeMiddleSpaces from "../../utils";
 
-const OrgImages = [OrgImage1, OrgImage2];
+const OrgImages = [OrgImage1, OrgImage2, OrgImage3 ];
 
 const Experience = () => {
   return (
