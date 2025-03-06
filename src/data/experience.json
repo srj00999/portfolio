@@ -21,5 +21,18 @@
       "Collaborate with team members to meet daily production targets and ensure timely delivery.",
       "Maintain accurate production records and reports for process improvement."
     ]
-  }
+  },
+   {
+  "role": "Field Engineer",
+  "organisation": "Lisco System Pvt. Ltd.",
+  "startDate": "Jan, 2025",
+  "endDate": "Present",
+  "experiences": [
+    "Install, configure, and maintain complex systems and equipment for clients, ensuring high operational efficiency.",
+    "Conduct regular field visits to diagnose and resolve system-related issues, ensuring minimal downtime for clients.",
+    "Provide technical support and training to clients, ensuring proper usage and maintenance of equipment.",
+    "Collaborate with cross-functional teams to provide customized solutions that meet client needs and specifications.",
+    "Document technical issues, solutions, and recommendations for future reference and continuous improvement."
+  ]
+}
 ]
