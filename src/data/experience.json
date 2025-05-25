@@ -10,16 +10,17 @@
       "Proactively tackled technical challenges, optimizing application performance and elevating user satisfaction."
     ]
   },
-  {
-    "role": "Production Operator",
-    "organisation": "SUSPA Pneumatics (India) Ltd.",
-    "startDate": "Sep, 2024",
-    "endDate": "Present",
-    "experiences": [
-      "Operate and monitor production equipment to ensure smooth and efficient manufacturing processes.",
-      "Assist in equipment maintenance, troubleshooting, and resolving production issues to minimize downtime.",
-      "Collaborate with team members to meet daily production targets and ensure timely delivery.",
-      "Maintain accurate production records and reports for process improvement."
-    ]
-  }
+{
+  "role": "Service Engineer",
+  "organisation": "Lisco",
+  "startDate": "June, 2024",
+  "endDate": "Present",
+  "experiences": [
+    "Installed and configured printers along with their companion software across varied client environments.",
+    "Troubleshot and resolved software issues related to printer drivers, connectivity, and system compatibility.",
+    "Provided technical support and on-site software assistance to clients, ensuring minimal downtime and high customer satisfaction.",
+    "Collaborated with internal tech teams to report bugs, suggest improvements, and assist in system updates.",
+    "Gained hands-on experience in working with Windows/Linux environments and software integration challenges."
+  ]
+}
 ]

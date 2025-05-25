@@ -14,10 +14,9 @@ const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites. I have hands-on working experience with
-                frontend technologies such as ReactJS, Redux Toolkit, and
-                JavaScript.
+                I'm a frontend developer with a strong focus on building responsive, user-friendly,
+                 and performance-optimized web applications. I have hands-on experience with modern frontend
+                  technologies including React.js, Redux Toolkit, and JavaScript.
               </p>
             </div>
           </li>
@@ -26,8 +25,9 @@ const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-                I have experience developing fast and optimized backend systems
-                and APIs. I have working experience with the MERN stack.
+              I also have experience developing efficient and scalable backend systems and RESTful APIs.
+               I'm proficient with the MERN stack (MongoDB, Express.js, React.js, Node.js) and have worked 
+               on end-to-end application development.
               </p>
             </div>
           </li>

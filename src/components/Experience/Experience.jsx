@@ -3,7 +3,7 @@ import styles from "./Experience.module.css";
 import skills from "../../data/skills.json";
 import experience from "../../data/experience.json";
 import OrgImage1 from "../../assets/experience/webixy.png";
-import OrgImage2 from "../../assets/experience/suspa.png";
+import OrgImage2 from "../../assets/experience/Lisco.png";
 
 import removeMiddleSpaces from "../../utils";
 
