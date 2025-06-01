@@ -3,16 +3,11 @@ import styles from "./Experience.module.css";
 import skills from "../../data/skills.json";
 import experience from "../../data/experience.json";
 import OrgImage1 from "../../assets/experience/webixy.png";
-<<<<<<< HEAD
 import OrgImage2 from "../../assets/experience/Lisco.png";
-=======
-import OrgImage2 from "../../assets/experience/suspa.png";
-import OrgImage3 from "../../assets/experience/liscoLogo.png";
->>>>>>> 45f0e4ce72354fe1bfaac3643c93fee3eb437c33
 
 import removeMiddleSpaces from "../../utils";
 
-const OrgImages = [OrgImage1, OrgImage2, OrgImage3 ];
+const OrgImages = [OrgImage1, OrgImage2 ];
 
 const Experience = () => {
   return (

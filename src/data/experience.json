@@ -10,7 +10,6 @@
       "Proactively tackled technical challenges, optimizing application performance and elevating user satisfaction."
     ]
   },
-<<<<<<< HEAD
 {
   "role": "Service Engineer",
   "organisation": "Lisco",
@@ -24,32 +23,5 @@
     "Gained hands-on experience in working with Windows/Linux environments and software integration challenges."
   ]
 }
+
 ]
-=======
-  {
-    "role": "Production Operator",
-    "organisation": "SUSPA Pneumatics (India) Ltd.",
-    "startDate": "Sep, 2024",
-    "endDate": "Present",
-    "experiences": [
-      "Operate and monitor production equipment to ensure smooth and efficient manufacturing processes.",
-      "Assist in equipment maintenance, troubleshooting, and resolving production issues to minimize downtime.",
-      "Collaborate with team members to meet daily production targets and ensure timely delivery.",
-      "Maintain accurate production records and reports for process improvement."
-    ]
-  },
-   {
-  "role": "Field Engineer",
-  "organisation": "Lisco System Pvt. Ltd.",
-  "startDate": "Jan, 2025",
-  "endDate": "Present",
-  "experiences": [
-    "Install, configure, and maintain complex systems and equipment for clients, ensuring high operational efficiency.",
-    "Conduct regular field visits to diagnose and resolve system-related issues, ensuring minimal downtime for clients.",
-    "Provide technical support and training to clients, ensuring proper usage and maintenance of equipment.",
-    "Collaborate with cross-functional teams to provide customized solutions that meet client needs and specifications.",
-    "Document technical issues, solutions, and recommendations for future reference and continuous improvement."
-  ]
-}
-]
->>>>>>> 45f0e4ce72354fe1bfaac3643c93fee3eb437c33
