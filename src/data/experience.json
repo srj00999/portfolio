@@ -1,27 +1,41 @@
 [
   {
-    "role": "Experience Engineer ",
-    "organisation": "Webixy Technologies",
-    "startDate": "March, 2022",
-    "endDate": "May, 2024",
+    "role": "Service Engineer (Software Focus)",
+    "organisation": "Lisco",
+    "startDate": "Jun 2024",
+    "endDate": "Present",
     "experiences": [
-      "Worked on a US-based Kids brand E-commerce client application as a FullStack Developer(React + Node).",
-      "Curated and maintained a robust library of reusable components, streamlining development processes and boosting efficiency.",
-      "Proactively tackled technical challenges, optimizing application performance and elevating user satisfaction."
+      "Developed automation scripts for printer software deployment (Python/Bash)",
+      "Debugged low-level driver compatibility issues across Windows/Linux kernels",
+      "Implemented remote diagnostic tools to reduce on-site visits by 30%",
+      "Documented software integration processes for cross-team knowledge sharing",
+      "Optimized client-side configuration management using PowerShell"
     ]
   },
-{
-  "role": "Service Engineer",
-  "organisation": "Lisco",
-  "startDate": "June, 2024",
-  "endDate": "Present",
-  "experiences": [
-    "Installed and configured printers along with their companion software across varied client environments.",
-    "Troubleshot and resolved software issues related to printer drivers, connectivity, and system compatibility.",
-    "Provided technical support and on-site software assistance to clients, ensuring minimal downtime and high customer satisfaction.",
-    "Collaborated with internal tech teams to report bugs, suggest improvements, and assist in system updates.",
-    "Gained hands-on experience in working with Windows/Linux environments and software integration challenges."
-  ]
-}
-
+  {
+    "role": "Full Stack Developer",
+    "organisation": "Webixy Technologies",
+    "startDate": "Mar 2023",
+    "endDate": "May 2024",
+    "experiences": [
+      "Architected Node.js microservices handling 50+ concurrent API requests",
+      "Designed React component library reducing UI dev time by 25%",
+      "Led migration from REST to GraphQL improving data fetch efficiency",
+      "Implemented CI/CD pipelines reducing deployment failures by 40%",
+      "Mentored junior developers in code review best practices"
+    ]
+  },
+  {
+    "role": "Full Stack Engineering Trainee",
+    "organisation": "Newton School",
+    "startDate": "May 2022",
+    "endDate": "Feb 2023",
+    "experiences": [
+      "Built MERN stack applications with JWT authentication",
+      "Created real-time dashboard using Socket.io and Chart.js",
+      "Deployed AWS EC2 instances with load-balanced Node.js servers",
+      "Contributed to open-source projects (GitHub PRs merged)",
+      "Wrote unit tests achieving 85% test coverage"
+    ]
+  }
 ]

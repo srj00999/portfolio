@@ -14,17 +14,17 @@ const Contact = () => {
       <ul className={styles.links}>
         <li className={styles.link}>
           <img src={emailIcon} alt="Email icon" />
-          <a href="mailto:srj00999@gmail.com" target="_blank">srj00999@gmail.com</a>
+          <a href="mailto:srj00999@gmail.com" target="_blank" rel="noreferrer noopener">srj00999@gmail.com</a>
         </li>
         <li className={styles.link}>
           <img src={linkedinIcon} alt="LinkedIn icon" />
-          <a href="https://www.linkedin.com/in/srj00999/" target="_blank">
+          <a href="https://www.linkedin.com/in/srj00999/" target="_blank" rel="noreferrer noopener">
             linkedin.com/in/srj00999
           </a>
         </li>
         <li className={styles.link}>
           <img src={githubIcon} alt="Github icon" />
-          <a href="https://github.com/srj00999" target="_blank">github.com/srj00999</a>
+          <a href="https://github.com/srj00999" target="_blank" rel="noreferrer noopener">github.com/srj00999</a>
         </li>
       </ul>
     </footer>
